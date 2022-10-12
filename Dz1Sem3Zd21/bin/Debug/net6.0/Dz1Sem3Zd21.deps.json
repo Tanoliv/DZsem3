@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dz1Sem3Zd21/1.0.0": {
+        "runtime": {
+          "Dz1Sem3Zd21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dz1Sem3Zd21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
