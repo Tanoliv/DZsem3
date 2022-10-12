@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\bin\Debug\net6.0\Dz_Sem3Zd19.exe
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\bin\Debug\net6.0\Dz_Sem3Zd19.deps.json
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\bin\Debug\net6.0\Dz_Sem3Zd19.runtimeconfig.json
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\bin\Debug\net6.0\Dz_Sem3Zd19.dll
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\bin\Debug\net6.0\Dz_Sem3Zd19.pdb
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.dll
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\refint\Dz_Sem3Zd19.dll
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.pdb
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\Dz_Sem3Zd19.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DZ_Sem3\Dz_Sem3Zd19\obj\Debug\net6.0\ref\Dz_Sem3Zd19.dll
